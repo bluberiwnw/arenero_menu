@@ -1,6 +1,3 @@
-- Agua
-- Limón
-- Azúcar
-- Hielo
-- Tajín o Hierbabuena
-- Fresa o Frambuesa
+- Nogada
+- Chile Poblano
+- Manzana
